@@ -55,8 +55,8 @@ Deployed a production **AI learning assistant** with vLLM + AnythingLLM, now use
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeoBR01&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoBR01&layout=compact&theme=react&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeoBR01&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoBR01&layout=compact&theme=react&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -68,7 +68,7 @@ Deployed a production **AI learning assistant** with vLLM + AnythingLLM, now use
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeoBR01&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=LeoBR01&theme=darkhub&no-frame=true&margin-w=8&column=7" />
 
 </div>
 
