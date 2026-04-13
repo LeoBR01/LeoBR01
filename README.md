@@ -55,8 +55,8 @@ Deployed a production **AI learning assistant** with vLLM + AnythingLLM, now use
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeoBR01&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoBR01&layout=compact&theme=react&hide_border=true&langs_count=8&cache_seconds=86400" />
+<img height="165" src="https://beautiful-github-homepage.vercel.app/api?username=LeoBR01&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=LeoBR01&layout=compact&theme=react&hide_border=true&langs_count=8&count_private=true" />
 
 </div>
 
