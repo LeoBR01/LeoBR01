@@ -9,10 +9,10 @@
 ## Sobre mim / About me
 
 Sou **IBM Consultant** embarcado na **Globo**, onde lidero iniciativas de engenharia de dados e IA em escala.
-Implantei em produção um **AI learning assistant** com vLLM + AnythingLLM — hoje acessado por **14.000 colaboradores**.
+Implantei em produção um **AI learning assistant** — hoje acessado por **14.000 colaboradores**.
 
 I'm an **IBM Consultant** embedded at **Globo**, leading data and AI engineering at scale.
-Deployed a production **AI learning assistant** with vLLM + AnythingLLM, now used by **14,000 employees**.
+Deployed a production **AI learning assistant**, now used by **14,000 employees**.
 
 - Localização / Location: Rio de Janeiro, Brasil
 - Stack principal: GCP · PySpark · Python · Terraform · Vertex AI · FastAPI
